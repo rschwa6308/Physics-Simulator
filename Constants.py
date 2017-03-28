@@ -2,7 +2,7 @@
 
 #gravitational constant
 global G
-G = .1
+G = 1
 
 #matter density
 global density
